@@ -1,5 +1,5 @@
 # Bagging_Boosting_Project
-# Bagging and Boosting ensemble model
+Bagging and Boosting ensemble model
 The data contains observations of about 240 million clicks, and whether a given click resulted in a download or not (1/0):
 The detailed data dictionary is mentioned here:
 ip: ip address of click.
